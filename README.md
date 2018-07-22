@@ -126,3 +126,12 @@ Building a custom Pipe
 Dependency Injection
 ---------------------
 A coding pattern in which a class receives the instance of object it needs (called `dependencies`) from an external source rather than creating itself.
+
+Observable and Reactive Extensions
+----------------------------------
+- Reactive Extensions (RxJS)
+- Help manage asynchronous data
+- Treat events as a Collection
+  (An array whose items arrive asynchronously over time)
+- Subscribe to receive notification
+- Are used within Angular
