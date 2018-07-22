@@ -122,3 +122,7 @@ Life Cycle
 Building a custom Pipe
 ----------------------
 ![alt text](images/customepipe.png)
+
+Dependency Injection
+---------------------
+A coding pattern in which a class receives the instance of object it needs (called `dependencies`) from an external source rather than creating itself.
