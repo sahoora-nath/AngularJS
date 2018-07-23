@@ -22,8 +22,8 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-[alt welcome](/images/welcome.png)
-[alt products](/images/productlist.png)
+![alt welcome](/images/welcome.png)
+![alt products](/images/productlist.png)
 
 ## Why Angular
 - Expressive HTML
